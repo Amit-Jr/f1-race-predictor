@@ -4,7 +4,9 @@ Predicts finishing order for the 2026 Spanish Grand Prix using
 5 years of historical F1 data and an XGBoost + Random Forest ensemble.
 
 ## Demo
-[screenshot of the streamlit dashboard]
+
+
+
 
 ## How it works
 - Pulls race results from 2021–2026 seasons
